@@ -1,0 +1,14 @@
+﻿{
+  "Name": "acme-test.uipath.comlo…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "nWoj9XxxMUGujEO4_T6X0w",
+  "Reference": "UNwhuNw-6ECXxpfQJn8ghg/nWoj9XxxMUGujEO4_T6X0w",
+  "ParentRef": "UNwhuNw-6ECXxpfQJn8ghg/DhuwUTUnkU27Neo1O96D1Q",
+  "Created": "2025-01-14T21:20:19.1083051Z",
+  "Updated": "2025-01-14T21:20:19.1083051Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

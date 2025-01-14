@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9hpb19pldUWdJa_talaKlw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="673b37b4-fb3f-488f-a949-bbbe8ebcd745" DesignTimeRectangle="165, 59, 1517, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='ACME System 1 - Log In - Google Chrome - Audrius' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;ctrl name='ACME System 1 - Log In - Google Chrome - Audrius' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' automationid='' /&gt;" Guid="494e208a-9efc-491f-bae2-75663b1d9f4b" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Log In - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="80f65c22f7fd579d92fe869e67b1c409.png" xmlns="">0mjpUKMQENkKqwSGdTo2JFQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
